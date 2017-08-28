@@ -49,6 +49,13 @@ The authentiction is based Application Express Accounts. For insert results into
 > - To modify the directory reference is necessary to change initializarion of `PCK_EXECUTION` package.
 > - The DSRRA user must have read permission in the oracle directory (MOA_RESULT).
 
+Home page of the application:
+![Home Page Screenshots](./doc/screenshots/DSRRA-Home.png?raw=true "Home Page")
+
+Comparative chart of algorithms:
+![Comparative Chart](./doc/screenshots/DSRRA-ResultsCompare.png?raw=true "Comparative chart")
+
+
 ## License
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
 
