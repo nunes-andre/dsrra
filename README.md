@@ -45,9 +45,9 @@ First step is to create the new workspace in Oracle Application Express (APEX) w
 
 The authentiction is based Application Express Accounts. For insert results into application is required create the directory in Oracle Database, called `MOA_RESULT`, to references the local where are generates the logfiles (from MOA). 
 
->> **Note:**
->> - To modify the directory reference is necessary to change initializarion of `PCK_EXECUTION` package.
->> - The DSRRA user must have read permission in the oracle directory (MOA_RESULT).
+> **Note:**
+> - To modify the directory reference is necessary to change initializarion of `PCK_EXECUTION` package.
+> - The DSRRA user must have read permission in the oracle directory (MOA_RESULT).
 
 ## License
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
